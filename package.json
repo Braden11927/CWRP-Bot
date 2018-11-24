@@ -1,11 +1,14 @@
 {
   "name": "CWRP-Bot",
-  "description": "A Discord bot!",
+  "version": "1.0.0",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "author": "Kazuto",
+  "license": "ISC",
   "dependencies": {
-    "discord.js": "11.2.1
+    "discord.js": "^11.2.0"
   }
 }
